@@ -1,0 +1,19 @@
+{
+  "name": "Alzheimer nella Pratica Clinica",
+  "short_name": "Alzheimer Clinica",
+  "description": "100 esercizi funzionali per persone con Alzheimer.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d1b3e",
+  "lang": "it",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
